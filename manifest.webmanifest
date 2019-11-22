@@ -1,0 +1,8 @@
+{
+	"name": "Student's Time Manager",
+	"display": "minimal-ui",
+	"background_color": "white",
+	"icons": [{
+		"src": "student-check.svg"
+	}]
+}
